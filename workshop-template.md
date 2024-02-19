@@ -2,17 +2,25 @@
 
 _[This template is here to help guide the creation of workshop material for this content bank, such that it is concise and to the point, ensuring correctness of content for the audience and for the instructor delivering it.]_
 
+---
+
 ## Workshop Overview
 
 _[Provide a brief overview of the workshop, including its purpose and target audience.]_
+
+---
 
 ## Learning Goals
 
 _[What are the learning goals of this workshop? Provide a high-level description of what learners are expected to achieve by the end of the workshop. For e.g. "By the end of this workshop, participants will gain practical experience in developing smart contracts with ink!."]_
 
+---
+
 ## Workshop Objectives
 
 _[What' the bullet form list of this workshop's learning objectives? Objectives break down the broader learning goals into smaller, actionable steps. Think: what are specific, measurable, and achievable statements that describe what learners should be able to do after completing a specific activity. Example objective: "By the end of this workshop, participants will be able to compile and deploy a basic ink! smart contract."]_
+
+---
 
 ## Workshop Agenda
 
