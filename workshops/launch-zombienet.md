@@ -6,7 +6,7 @@
 
 ## Workshop plan
 
-_ Learn about the big picture: relay chain binary and parachains, genesis config, executable
+- Learn about the big picture: relay chain binary and parachains, genesis config, executable
 - Setup Zombienet locally
 - Follow the steps to run the test net
 - Launch networks with different configurations
@@ -42,6 +42,12 @@ But that's a lot of parachain binaries ... _you don't want to do this!_
 
 ---
 
+## Taking a look at the binaries..
+
+- https://wiki.polkadot.network/docs/maintain-guides-how-to-validate-polkadot#installing-the-polkadot-binaries
+
+---
+
 _Food for thought: in a way, parachains are just like mega complex smart contracts.._
 
 ---
@@ -52,6 +58,7 @@ Fun little activity.. Run to interact with your node:
 
 ```bash
 ./bin/polkadot-parachain --help
+./bin/pokadot subkey
 ```
 
 ---
@@ -63,6 +70,8 @@ Although you can set up zombienet to on the system path of your machine, I recom
 ```bash
 wget https://github.com/paritytech/zombienet/releases/download/v1.3.68/zombienet-macos -P    
 ```
+
+or download from the workshop release: https://github.com/sacha-l/local-polkadot-testnet/releases
 
 ---
 
@@ -82,6 +91,8 @@ wget https://github.com/paritytech/zombienet/releases/download/v1.3.68/zombienet
 At this point we've successfully installed Zombienet.
 
 Let's check out the CLI commands..
+
+https://paritytech.github.io/zombienet/cli/index.html
 
 ---
 
