@@ -2,17 +2,38 @@
 
 In this talk, we'll learn about how Polkadot works at a high level. We'll learn about the different terms you may come across such as "parachains", "xcm", "relay chain" and how these relate to terms used in Ethereum.
 
+<<<<<<< Updated upstream
 Note: arc starting by what is Polkadot, how its design meets the needs it addresses, beyond Polkadot 1.0.
+=======
+Note: arc starting by what is Polkadot, how its design meets the needs it addresses, beyond Polkadot 1.0. Style: visual focus.
+>>>>>>> Stashed changes
 
 ---
 
 ## Talk outline
 
+<<<<<<< Updated upstream
 * Philosophy: a network designed to secure specialized blockchains and evolve over time (2 key features to cover)
     * Specialized chains and interoperability
     * Meta-protocol governance
 * Terminology: Relay chain, Parachain, DOT token
 * Polkadot's design
+=======
+* Philosophy: a network designed to secure specialized blockchains and evolve over time without the intervention of a single governing body (2 key features to cover)
+    * Specialized chains and interoperability
+    * Meta-protocol governance
+
+* Polkadot as a protocol that's self-sustainable
+    * Pays for actors that help it prosper (protocol upgrades, maintainence, features upgrades)
+    * Upgradable
+    * Examples: events paid by treasury, tips, marketing initiatives, 
+
+* Visual: it's a network that provides blockspace
+* Visual: designed to be self governed
+* Terminology: Relay chain, Parachain, DOT token
+
+* Why Polkadot's design?
+>>>>>>> Stashed changes
     * Problems it has identified: Scalability with interoperability and security for a multichain future + futureproofness
     * How it addresses those problems
         * Scalability: specialized blockchains, built for a specific purpose and optimizing in what they do. Parachains inherit economic security of Polkadot itself
@@ -20,12 +41,30 @@ Note: arc starting by what is Polkadot, how its design meets the needs it addres
     * Architectural overview
     * Nominated proof of stake
     * Consensus
+<<<<<<< Updated upstream
 * Building and deploying parachains
 * What's Polkadot beyond the tech
 * The road ahead Polkadot 1.0 
     * Blockspace as a service (compute machinery)
     * Beyond verifying blockchains
     * Coreplay: reframing how to make use of the resource Polkadot provides
+=======
+
+* Building and deploying parachains
+* The Polkadot System (chains that have DOT as their native token)
+* Highlight:
+    Accessibility -> resiliance -> ??
+* What's Polkadot beyond the tech
+    * DOT token
+    * OpenGov
+    * Staking
+* The road ahead (>Polkadot 1.0) 
+    * Blockspace as a service (compute machinery)
+    * Beyond verifying blockchains
+    * Coreplay: reframing how to make use of the resource Polkadot provides
+* Technical and financial support
+* Q&A (time permitting)
+>>>>>>> Stashed changes
 
 ---
 
@@ -34,6 +73,11 @@ Note: arc starting by what is Polkadot, how its design meets the needs it addres
 * Future is multi-chain
 * Chains need to be able to evolve
 
+<<<<<<< Updated upstream
+=======
+Note: show what we learn from this visual. Show alpha.chainviz.app
+
+>>>>>>> Stashed changes
 ---
 
 ## Terminology check
@@ -50,6 +94,13 @@ Show alpha.chainviz.app
 
 ---
 
+<<<<<<< Updated upstream
+=======
+Show xcm visualizer
+
+---
+
+>>>>>>> Stashed changes
 ## Problems / solutions
 
 * Scaling is hard / specialized chains

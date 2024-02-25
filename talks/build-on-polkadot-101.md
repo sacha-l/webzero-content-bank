@@ -47,6 +47,12 @@ Note: attend talk on "the Polkadot tech stack" for a deep dive on this.
 
 ---
 
+## You do both! 🧑‍💻😺
+
+Note: or do both. My point is that there's a lot of opportunity to build things without needing to know how to write code.
+
+---
+
 Thought: building on Polkadot vs. building in Polkadot, latter is more encompassing.
 
 ---
@@ -135,9 +141,32 @@ Most important starting point 🌈 🦄
 
 ---
 
+## Inspiration: UI/UX
+
+In the realm of UX for Polkadot core functionalities:
+
+* Multix: simple way to create multisig wallets.
+
+Note: show multix. Highlight how it's a notable UX improvement for an important feature in Polkadot.
+
+---
+
+## Multix showcase
+
+* Clear feature set
+* Good UX
+* No sacrifice
+
+---
+
+any more inspo to share? 
+
+
+---
+
 ## Learning resources
 
-* Polkadot Blockchain Academy
+* Polkadot Blockchain Academy (developer and founder tracks)
 * Polkadot Wiki - Starters Guide
 * W3F edX courses
 * Substrate Developer Hub
@@ -146,8 +175,8 @@ Most important starting point 🌈 🦄
 
 ## Get support 
 
-* Substrate and Polkadot Hackathons.
-* Treasury funded Polkadot Education initiatives.
+* Substrate and Polkadot Hackathons
+* Treasury funded Polkadot Education initiatives
 * W3F grants
 * Polkadot Developer Heroes Program
 
@@ -155,6 +184,7 @@ Most important starting point 🌈 🦄
 
 ## Conclusion
 
+* It's becoming easier to build parachains that use the Polkadot computer 
 * It's permissionless (*)
 * What you want to build / what areas interest you
 * Vast landscape of opportunities for experimentation
